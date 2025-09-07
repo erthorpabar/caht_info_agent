@@ -38,6 +38,9 @@ messages = [] # 历史记录
 
 # 对话系统
 while True:
+    # 开始打印
+
+
     # 用户输入
     user_input = input("用户: ")
     if user_input == "quit":
